@@ -1,0 +1,87 @@
+{
+    "archive": [
+        {
+            "date": "2014-10-17",
+            "id": 1,
+            "isHtml": true,
+            "lang": "en",
+            "path": "http://mklakakilli.github.io/dockerpresentation/#/",
+            "speaker": "Michal Vanko",
+            "teaser": "Build, ship and run any app, anywhere",
+            "topic": "Docker"
+        },
+        {
+            "date": "2014-10-31",
+            "id": 2,
+            "isHtml": true,
+            "lang": "en",
+            "path": "slides/reveal.js/lo_webwf.html",
+            "speaker": "Luk\u00e1\u0161 Orgov\u00e1n",
+            "teaser": "(Not only) with Grunt and Bower",
+            "topic": "Speed up your webdev workflow"
+        },
+        {
+            "date": "2014-11-21",
+            "id": 3,
+            "isHtml": false,
+            "lang": "sk",
+            "path": "slides/mk_strojove_ucenie.pps",
+            "speaker": "Martin Kerek\u00e1\u010d",
+            "teaser": "Find cats on the Internet in a sophisticated way :)",
+            "topic": "Machine Learning"
+        },
+        {
+            "date": "2014-12-05",
+            "id": 4,
+            "isHtml": true,
+            "lang": "sk",
+            "path": "slides/ef_organise/index.html",
+            "speaker": "Erik Fecko",
+            "teaser": "Advices on making your day more efficient",
+            "topic": "Organize yourself!"
+        },
+        {
+            "date": "2015-01-23",
+            "id": 5,
+            "isHtml": true,
+            "lang": "en",
+            "path": "slides/reveal.js/tech-radar-2015.html",
+            "speaker": "Michal Ka\u0161\u010d\u00e1k",
+            "teaser": "Trends and emerging tech for 2015. From programming languages and achitectures to web",
+            "topic": "Technology radar 2015"
+        },
+        {
+            "date": "2015-02-27",
+            "id": 6,
+            "isHtml": true,
+            "lang": "en",
+            "path": "slides/functional-programming.html",
+            "speaker": "Martin Kraj\u010d",
+            "teaser": "Insight into funcional programming paradigm from theory to real world usage",
+            "topic": "Functional programming"
+        },
+        {
+            "date": "2015-03-27",
+            "id": 7,
+            "isHtml": true,
+            "lang": "en",
+            "path": "slides/HandsOnGradle.html",
+            "speaker": "Markéta Solaniková",
+            "teaser": "Make the impossible possible, make the possible easy, and make the easy elegant",
+            "topic": "Hands on Gradle"
+        },
+        {
+        "date": "2015-04-17",
+        "id": 8,
+        "isHtml": true,
+        "lang": "en",
+        "path": "slides/Spring_boot.html",
+        "speaker": "Vladislav Jevčák",
+        "teaser": "Simplify your REST services development",
+        "topic": "Spring Boot"
+        }
+    ],
+    "upcoming": [
+        
+    ]
+}
