@@ -34,12 +34,10 @@ class Upcoming extends React.Component {
         }
         return (
             <div>
-                <h2>Upcoming</h2>
+                <h2>Piesne</h2>
                 <div className="Archive list-group">
                     {presentationNodes}
                 </div>
-                <div>{this.state.username}</div>
-                <div>{this.state.songContent}</div>
             </div>
         );
     }

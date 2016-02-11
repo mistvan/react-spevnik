@@ -16,10 +16,10 @@ class App extends React.Component {
             <nav className="navbar navbar-default navbar-static-top">
                 <div className="container">
                     <div className="navbar-header">
-                        <a className="navbar-brand" href="/">Geeky Friday</a>
+                        <a className="navbar-brand" href="/">Majak Spevník</a>
                     </div>
                     <ul className="nav navbar-nav navbar-right">
-                        <li><Link to="app">Archive</Link></li>
+                        <li><Link to="app">Link</Link></li>
                     </ul>
                 </div>
             </nav>

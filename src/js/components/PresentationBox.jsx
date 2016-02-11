@@ -21,7 +21,8 @@ class PresentationBox extends React.Component {
                 <div className="pleft">
                     <h3 className="list-group-item-heading">{pres.slug}</h3>
                     <h4 className="list-group-item-heading">{pres.teaser}</h4>
-                    Song: {pres.content}
+                    Song: 
+                    <div dangerouslySetInnerHTML={{__html: pres.content.rendered}} />
                 </div>
                 <div className="pright">
                     <span className="pdate"></span><br />
